@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="./Assets/banner.png" alt="Two Devs One Repo Banner" width="100%">
+</p>
+
+<h1 align="center">🚀 Two Devs, One Repo</h1>
+
+<p align="center">
+  <b>Learn Together • Build Together • Grow Together</b>
+</p>
+--------
 # 🚀 Two Devs, One Repo
 
 > Two developers. One repository. One learning journey.
